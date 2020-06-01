@@ -1,4 +1,4 @@
-### SafeFood
+### SAFE FOOD
 
 We are the "Food Safe" team.
 Our challenge is food for thought.
@@ -10,7 +10,7 @@ All this thanks to a Blockchain structure, the use of smart contracts and the ap
 
 Allowing to generate control, trust and security over the food you buy.
 
-## REPOSITORY FOR NASA MAP API BY SAFE FOOD
+## Repository for NASA MAP API BY SAFE FOOD
 
 https://github.com/carlosmcastro/SAFE_FOODS_MAPS_GIBS
 
